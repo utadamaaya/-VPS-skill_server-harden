@@ -38,7 +38,7 @@ V1版本是deepseek撰写的，由ChatGPT审查后修改成了V2版（也就是�
 
 ## 怎么用
 1. 把这个直接给你的Agent用看，当成参考手册，
-2. 直接当成skil用：把 `SKILL.md` 放进你 AI 工具的 skills 目录
+2. 直接当成skill用：把 `SKILL.md` 放进你 AI 工具的 skills 目录
 3. 对你的 AI 说："帮我加固服务器"
 4. AI 会按 skill 的流程带你走（需要确认的高风险步骤会先问你）
 
